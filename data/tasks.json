@@ -1,0 +1,553 @@
+[
+  {
+    "id": "linkedin_001",
+    "title": "Reply to Sara Vincent (Utiq MD) - URGENT",
+    "description": "Sara Vincent asked 'You doing good at Pub X?' on Feb 16. She's making progress at Utiq learning how telcos work. Needs response about your current situation at pubX.",
+    "status": "backlog",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Read Sara's message",
+        "done": true
+      },
+      {
+        "id": "sub_002",
+        "title": "Draft response about pubX experience",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Send reply via LinkedIn",
+        "done": false
+      }
+    ],
+    "priority": "high",
+    "dod": "Response sent about pubX progress and current projects",
+    "comments": [
+      "Sara is at Utiq, working with telcos",
+      "She connected Ian Landsborough from your intro",
+      "Friendly relationship, expects casual/professional tone"
+    ],
+    "linkedinUrl": "https://uk.linkedin.com/in/sara-vincent-6271674",
+    "category": "linkedin_outreach",
+    "dateReceived": "2026-02-16"
+  },
+  {
+    "id": "linkedin_002",
+    "title": "Follow up with Nima Shahraz - Supply Side Sales Role",
+    "description": "Nima offered supply-side sales role (fully remote), you said 'call whenever', but he never followed through after confirming your phone number. Consider gentle follow-up.",
+    "status": "backlog",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Read Nima's message",
+        "done": true
+      },
+      {
+        "id": "sub_002",
+        "title": "Decide: follow up or wait?",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Send follow-up message if desired",
+        "done": false
+      }
+    ],
+    "priority": "medium",
+    "dod": "Decision made on follow-up, action taken if appropriate",
+    "comments": [
+      "You gave permission to call on Feb 12",
+      "He confirmed your phone number but never called",
+      "Ball is in his court, but gentle nudge could work"
+    ],
+    "linkedinUrl": "https://uk.linkedin.com/in/nima-shahraz-666a2114",
+    "category": "linkedin_outreach",
+    "dateReceived": "2026-02-12"
+  },
+  {
+    "id": "linkedin_003",
+    "title": "Charlie Curtis - RESOLVED ✅",
+    "description": "Charlie asked about open roles on Feb 11. You replied 'Nothing at the moment mate' and he saw the message. No action needed.",
+    "status": "done",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Read Charlie's message",
+        "done": true
+      },
+      {
+        "id": "sub_002",
+        "title": "Assess recruitment opportunity",
+        "done": true
+      },
+      {
+        "id": "sub_003",
+        "title": "Send professional response",
+        "done": true
+      }
+    ],
+    "priority": "low",
+    "dod": "COMPLETE: Charlie's question answered appropriately",
+    "comments": [
+      "Charlie is MD at Moriati Recruitment",
+      "Asked about live roles",
+      "You responded honestly - no current openings",
+      "Conversation complete"
+    ],
+    "linkedinUrl": "https://uk.linkedin.com/in/cejcurtis",
+    "category": "linkedin_outreach",
+    "dateReceived": "2026-02-11"
+  },
+  {
+    "id": "linkedin_004",
+    "title": "Thank new LinkedIn connections (5 people)",
+    "description": "Send personalized thank you messages to recent connection acceptances: Eyal Betzalel, Thomas Aina, Tobias Wuest, Noy Rotbart, Vanessa Eng",
+    "status": "backlog",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Research Eyal Betzalel's profile",
+        "done": false
+      },
+      {
+        "id": "sub_002",
+        "title": "Send thank you to Eyal",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Research Thomas Aina's profile",
+        "done": false
+      },
+      {
+        "id": "sub_004",
+        "title": "Send thank you to Thomas",
+        "done": false
+      },
+      {
+        "id": "sub_005",
+        "title": "Thank remaining 3 connections",
+        "done": false
+      }
+    ],
+    "priority": "medium",
+    "dod": "All 5 new connections thanked with personalized messages",
+    "comments": [],
+    "category": "linkedin_maintenance",
+    "dateReceived": "2026-02-17"
+  },
+  {
+    "id": "linkedin_005",
+    "title": "Review pending LinkedIn invitation",
+    "description": "Check LinkedIn notifications for the pending invitation mentioned in email on Feb 14. Accept or decline with appropriate response.",
+    "status": "backlog",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Check LinkedIn notifications",
+        "done": false
+      },
+      {
+        "id": "sub_002",
+        "title": "Review invitation details",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Accept or decline appropriately",
+        "done": false
+      }
+    ],
+    "priority": "medium",
+    "dod": "Pending invitation reviewed and handled appropriately",
+    "comments": [],
+    "category": "linkedin_maintenance",
+    "dateReceived": "2026-02-14"
+  },
+  {
+    "id": "linkedin_strategy_001",
+    "title": "📋 LinkedIn Profile Optimization",
+    "description": "Optimize LinkedIn profile for ad tech thought leadership positioning. Update headline, about section, experience descriptions to align with strategy.",
+    "status": "backlog",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Audit current profile against strategy",
+        "done": false
+      },
+      {
+        "id": "sub_002",
+        "title": "Rewrite headline for thought leadership",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Update about section with value prop",
+        "done": false
+      },
+      {
+        "id": "sub_004",
+        "title": "Optimize experience descriptions",
+        "done": false
+      },
+      {
+        "id": "sub_005",
+        "title": "Add relevant skills and endorsements",
+        "done": false
+      }
+    ],
+    "priority": "high",
+    "dod": "Profile optimized for ad tech + AI/ML thought leadership, SEO-friendly, compelling value proposition",
+    "comments": [],
+    "category": "linkedin_foundation",
+    "estimatedHours": 3
+  },
+  {
+    "id": "linkedin_strategy_002",
+    "title": "📝 Content Calendar Setup (Week 1-4)",
+    "description": "Create first month of LinkedIn content following 4-pillar strategy: industry insights, pubX behind-scenes, thought leadership, personal moments.",
+    "status": "backlog",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Draft 4 industry insight posts",
+        "done": false
+      },
+      {
+        "id": "sub_002",
+        "title": "Draft 4 pubX case study posts",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Draft 2 thought leadership posts",
+        "done": false
+      },
+      {
+        "id": "sub_004",
+        "title": "Draft 2 personal/team posts",
+        "done": false
+      },
+      {
+        "id": "sub_005",
+        "title": "Schedule posts for optimal times",
+        "done": false
+      }
+    ],
+    "priority": "high",
+    "dod": "12 posts drafted and scheduled for 4 weeks, aligned with content pillars",
+    "comments": [
+      "3 posts per week: Mon/Wed/Fri",
+      "Focus on valuable insights",
+      "Mix formats: text, carousel, video"
+    ],
+    "category": "linkedin_content",
+    "estimatedHours": 8
+  },
+  {
+    "id": "linkedin_strategy_003",
+    "title": "🎯 Connection Target List (100 Priority Contacts)",
+    "description": "Identify and research 100 high-value connection targets across ad tech, AI/ML, and EMEA digital advertising.",
+    "status": "backlog",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Tier 1: 25 decision makers at publishers/ad tech",
+        "done": false
+      },
+      {
+        "id": "sub_002",
+        "title": "Tier 2: 25 conference speakers/thought leaders",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Tier 3: 25 technical leaders AI/ML + advertising",
+        "done": false
+      },
+      {
+        "id": "sub_004",
+        "title": "Tier 4: 25 EMEA advertising executives",
+        "done": false
+      },
+      {
+        "id": "sub_005",
+        "title": "Create outreach templates for each tier",
+        "done": false
+      }
+    ],
+    "priority": "high",
+    "dod": "100 targets researched and prioritized, personalized connection templates ready",
+    "comments": [],
+    "category": "linkedin_connections",
+    "estimatedHours": 6
+  },
+  {
+    "id": "linkedin_strategy_004",
+    "title": "📊 Analytics Dashboard Setup",
+    "description": "Set up tracking system for LinkedIn performance metrics, engagement rates, connection growth, and business impact.",
+    "status": "backlog",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Create performance tracking spreadsheet",
+        "done": false
+      },
+      {
+        "id": "sub_002",
+        "title": "Set up weekly analytics review process",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Define success KPIs and targets",
+        "done": false
+      },
+      {
+        "id": "sub_004",
+        "title": "Create monthly strategy review template",
+        "done": false
+      }
+    ],
+    "priority": "medium",
+    "dod": "Analytics system in place to track all key LinkedIn metrics and business impact",
+    "comments": [
+      "Track: post performance, connection growth, profile views, business leads"
+    ],
+    "category": "linkedin_analytics",
+    "estimatedHours": 4
+  },
+  {
+    "id": "linkedin_daily_001",
+    "title": "🔄 Daily LinkedIn Engagement (Recurring)",
+    "description": "Daily LinkedIn activities: morning engagement (5-7 thoughtful comments), lunchtime sharing (2-3 posts), evening replies (respond to all comments on your posts).",
+    "status": "permanent",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Morning: Comment on 5-7 posts from targets",
+        "done": false
+      },
+      {
+        "id": "sub_002",
+        "title": "Lunch: React/share 2-3 relevant posts with takes",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Evening: Reply to all comments on your posts",
+        "done": false
+      },
+      {
+        "id": "sub_004",
+        "title": "Log engagement activities for tracking",
+        "done": false
+      }
+    ],
+    "priority": "medium",
+    "dod": "15-20 minutes of quality engagement completed daily",
+    "comments": [
+      "Focus on adding value, not just generic likes",
+      "Track which posts get most engagement"
+    ],
+    "category": "linkedin_daily",
+    "recurrence": "daily"
+  },
+  {
+    "id": "linkedin_weekly_001",
+    "title": "📈 Weekly LinkedIn Performance Review (Recurring)",
+    "description": "Weekly analysis of LinkedIn performance: post analytics, connection acceptance rates, engagement quality, content optimization insights.",
+    "status": "permanent",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Review post performance (impressions, engagement)",
+        "done": false
+      },
+      {
+        "id": "sub_002",
+        "title": "Analyze connection request acceptance rates",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Identify top-performing content themes",
+        "done": false
+      },
+      {
+        "id": "sub_004",
+        "title": "Plan content adjustments for next week",
+        "done": false
+      },
+      {
+        "id": "sub_005",
+        "title": "Update strategy based on insights",
+        "done": false
+      }
+    ],
+    "priority": "medium",
+    "dod": "Weekly performance analyzed, insights documented, next week planned",
+    "comments": [
+      "Every Friday 4PM",
+      "Use data to optimize content and strategy"
+    ],
+    "category": "linkedin_weekly",
+    "recurrence": "weekly"
+  },
+  {
+    "id": "linkedin_weekly_002",
+    "title": "🤝 Weekly Connection Outreach Campaign (Recurring)",
+    "description": "Send 15-20 targeted connection requests per week, follow up with new connections, nurture relationships with existing network.",
+    "status": "permanent",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Send 15-20 personalized connection requests",
+        "done": false
+      },
+      {
+        "id": "sub_002",
+        "title": "Follow up with 5-10 new connections",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Re-engage 2-3 dormant connections",
+        "done": false
+      },
+      {
+        "id": "sub_004",
+        "title": "Update connection tracking spreadsheet",
+        "done": false
+      }
+    ],
+    "priority": "medium",
+    "dod": "Weekly connection goals met, relationships nurtured, progress tracked",
+    "comments": [
+      "Quality over quantity",
+      "Personalize every request",
+      "Track acceptance rates by message type"
+    ],
+    "category": "linkedin_weekly",
+    "recurrence": "weekly"
+  },
+  {
+    "id": "linkedin_monthly_001",
+    "title": "🎯 Monthly LinkedIn Strategy Review (Recurring)",
+    "description": "Comprehensive monthly review of LinkedIn strategy: performance analysis, goal assessment, strategy refinements, next month planning.",
+    "status": "permanent",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Analyze monthly KPIs vs targets",
+        "done": false
+      },
+      {
+        "id": "sub_002",
+        "title": "Review content performance patterns",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Assess business impact (leads, opportunities)",
+        "done": false
+      },
+      {
+        "id": "sub_004",
+        "title": "Plan strategy adjustments for next month",
+        "done": false
+      },
+      {
+        "id": "sub_005",
+        "title": "Set goals and content themes for next month",
+        "done": false
+      }
+    ],
+    "priority": "high",
+    "dod": "Monthly performance reviewed, strategy refined, next month planned",
+    "comments": [
+      "Last Friday of each month",
+      "Focus on business impact metrics"
+    ],
+    "category": "linkedin_monthly",
+    "recurrence": "monthly"
+  },
+  {
+    "id": "linkedin_campaign_001",
+    "title": "🚀 Q1 Thought Leadership Campaign",
+    "description": "3-month campaign to establish thought leadership in AI-driven ad tech. Series of technical posts, case studies, and industry predictions.",
+    "status": "backlog",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Plan campaign theme and messaging",
+        "done": false
+      },
+      {
+        "id": "sub_002",
+        "title": "Create content series outline (12 posts)",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Draft pillar content pieces",
+        "done": false
+      },
+      {
+        "id": "sub_004",
+        "title": "Coordinate with pubX for case studies",
+        "done": false
+      },
+      {
+        "id": "sub_005",
+        "title": "Launch and track campaign performance",
+        "done": false
+      }
+    ],
+    "priority": "high",
+    "dod": "Campaign launched, driving engagement and establishing thought leadership",
+    "comments": [
+      "Focus: AI in ad tech, future predictions, technical insights",
+      "Leverage pubX experience for credibility"
+    ],
+    "category": "linkedin_campaign",
+    "estimatedHours": 20
+  },
+  {
+    "id": "linkedin_tools_001",
+    "title": "🛠️ LinkedIn Automation Tools Setup",
+    "description": "Set up tools and systems to streamline LinkedIn activities: scheduling tools, analytics dashboards, CRM integration.",
+    "status": "backlog",
+    "subtasks": [
+      {
+        "id": "sub_001",
+        "title": "Research LinkedIn automation tools (Buffer, Hootsuite)",
+        "done": false
+      },
+      {
+        "id": "sub_002",
+        "title": "Set up content scheduling system",
+        "done": false
+      },
+      {
+        "id": "sub_003",
+        "title": "Integrate analytics tracking",
+        "done": false
+      },
+      {
+        "id": "sub_004",
+        "title": "Create connection management system",
+        "done": false
+      }
+    ],
+    "priority": "medium",
+    "dod": "Automation tools configured to support LinkedIn strategy efficiently",
+    "comments": [
+      "Stay within LinkedIn terms of service",
+      "Focus on content and analytics, not spammy outreach"
+    ],
+    "category": "linkedin_tools",
+    "estimatedHours": 6
+  }
+]
